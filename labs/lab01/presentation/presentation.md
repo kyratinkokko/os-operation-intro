@@ -1,40 +1,38 @@
 ---
-## Front matter
-lang: ru-RU
-title: Операционные системы
-subtitle: Управление версиями
+title: "Операционные системы"
+subtitle: "Управление версиями"
 author:
-  - Геллер Михаил Андреевич
+  - "Геллер Михаил Андреевич"
 institute:
-  - Российский университет дружбы народов, Москва, Россия
-date: 29 мая 2025
+  - "Российский университет дружбы народов, Москва, Россия"
+date: "29 мая 2025"
+lang: ru-RU
 
-## i18n babel
 babel-lang: russian
 babel-otherlangs: english
 
-## Formatting pdf
 toc: false
-toc-title: Содержание
+toc-title: "Содержание"
 slide_level: 2
 aspectratio: 169
 section-titles: true
 theme: metropolis
+
+mainfont: DejaVu Serif
+sansfont: DejaVu Sans
+monofont: DejaVu Sans Mono
+
 header-includes:
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 ---
 
 # Цели и задачи работы
 
-# Цель лабораторной работы
+## Цель лабораторной работы
+
 Целью данной работы является приобретение практических навыков установки операционной системы на виртуальную машину, настройки минимально необходимых для дальнейшей работы сервисов.
 
-
-
 # Ход выполнения
-
- 
-
 
 ## Создание виртуальной машины
 
@@ -64,10 +62,4 @@ header-includes:
 
 ## Вывод
 
-Мы приобрели практические навыки работы с созданием виртуальной машиной
-
-# Выводы по проделанной работе
-
-## Вывод
-
-Мы приобрели практические навыки работы с созданием виртуальной машиной
+Мы приобрели практические навыки работы с созданием виртуальной машины.

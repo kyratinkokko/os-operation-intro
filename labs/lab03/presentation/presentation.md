@@ -1,27 +1,29 @@
 ---
-## Front matter
-lang: ru-RU
-title: Операционные системы
-subtitle: Markdown
+title: "Операционные системы"
+subtitle: "Markdown"
 author:
-  - Геллер Михаил Андреевич
+  - "Геллер Михаил Андреевич"
 institute:
-  - Российский университет дружбы народов, Москва, Россия
-date: 29 мая 2025
+  - "Российский университет дружбы народов, Москва, Россия"
+date: "29 мая 2025"
+lang: ru-RU
 
-## i18n babel
 babel-lang: russian
 babel-otherlangs: english
 
-## Formatting pdf
 toc: false
-toc-title: Содержание
+toc-title: "Содержание"
 slide_level: 2
 aspectratio: 169
 section-titles: true
 theme: metropolis
+
+mainfont: DejaVu Serif
+sansfont: DejaVu Sans
+monofont: DejaVu Sans Mono
+
 header-includes:
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 ---
 
 # Цели и задачи работы
@@ -46,9 +48,9 @@ header-includes:
 
 ## Экспорт документа
 
-* Pandoc — универсальная утилита для работы с текстовыми форматами. Основная сфера применения — форматирование математических и технических текстов.
+- **Pandoc** — универсальная утилита для работы с текстовыми форматами. Основная сфера применения — форматирование математических и технических текстов.
 
-* Beamer — класс для LaTeX, позволяющий создавать слайды для презентаций. Возможно включение сложных математических формул, иллюстраций, анимации.
+- **Beamer** — класс для LaTeX, позволяющий создавать слайды для презентаций. Возможно включение сложных математических формул, иллюстраций, анимации.
 
 # Выводы по проделанной работе
 

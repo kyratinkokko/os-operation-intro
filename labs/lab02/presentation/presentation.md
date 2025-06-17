@@ -1,27 +1,29 @@
 ---
-## Front matter
-lang: ru-RU
-title: Операционные системы
-subtitle: Управление версиями
+title: "Операционные системы"
+subtitle: "Управление версиями"
 author:
-  - Геллер Михаил Андреевич
+  - "Геллер Михаил Андреевич"
 institute:
-  - Российский университет дружбы народов, Москва, Россия
-date: 29 мая 2025
+  - "Российский университет дружбы народов, Москва, Россия"
+date: "29 мая 2025"
+lang: ru-RU
 
-## i18n babel
 babel-lang: russian
 babel-otherlangs: english
 
-## Formatting pdf
 toc: false
-toc-title: Содержание
+toc-title: "Содержание"
 slide_level: 2
 aspectratio: 169
 section-titles: true
 theme: metropolis
+
+mainfont: DejaVu Serif
+sansfont: DejaVu Sans
+monofont: DejaVu Sans Mono
+
 header-includes:
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 ---
 
 # Цели и задачи работы
@@ -52,5 +54,4 @@ header-includes:
 
 ## Вывод
 
-Мы приобрели практические навыки работы с сервисом github.
-
+Мы приобрели практические навыки работы с сервисом GitHub.

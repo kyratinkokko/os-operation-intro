@@ -1,27 +1,29 @@
 ---
-## Front matter
-lang: ru-RU
-title: Операционные системы
-subtitle: Основы интерфейса взаимодействия пользователя с системой Unix на уровне командной строки
+title: "Операционные системы"
+subtitle: "Основы интерфейса взаимодействия пользователя с системой Unix на уровне командной строки"
 author:
-  - Геллер Михаил Андреевич
+  - "Геллер Михаил Андреевич"
 institute:
-  - Российский университет дружбы народов, Москва, Россия
-date: 29 мая 2025
+  - "Российский университет дружбы народов, Москва, Россия"
+date: "29 мая 2025"
+lang: ru-RU
 
-## i18n babel
 babel-lang: russian
 babel-otherlangs: english
 
-## Formatting pdf
 toc: false
-toc-title: Содержание
+toc-title: "Содержание"
 slide_level: 2
 aspectratio: 169
 section-titles: true
 theme: metropolis
+
+mainfont: DejaVu Serif
+sansfont: DejaVu Sans
+monofont: DejaVu Sans Mono
+
 header-includes:
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 ---
 
 # Цели и задачи работы
@@ -32,15 +34,11 @@ header-includes:
 
 ## Задачи лабораторной работы
 
-1 Определить имя и путь домашнего каталога
-
-2 Изучить команду ls.
-
-3 Выполнить действия с каталогами.
-
-4 Получить дополнительные сведения при помощи справки по командам.
-
-5 Изучить команду history.
+1. Определить имя и путь домашнего каталога  
+2. Изучить команду `ls`  
+3. Выполнить действия с каталогами  
+4. Получить дополнительные сведения при помощи справки по командам  
+5. Изучить команду `history`  
 
 # Процесс выполнения лабораторной работы
 
@@ -52,15 +50,9 @@ header-includes:
 
 ![Команда ls](image/02.png){ #fig:002 width=70% height=70% }
 
-## Опции команды ls
-
 ![Команда ls -a](image/03.png){ #fig:003 width=70% height=70% }
 
-## Опции команды ls
-
 ![Команда ls -l](image/04.png){ #fig:004 width=70% height=70% }
-
-## Опции команды ls
 
 ![Команда ls -f](image/05.png){ #fig:005 width=70% height=70% }
 
@@ -76,27 +68,17 @@ header-includes:
 
 ![Действия с каталогами](image/08.png){ #fig:008 width=70% height=70% }
 
-## Опции команды ls
-
 ![Команда ls -R и ls -t](image/09.png){ #fig:009 width=70% height=70% }
 
 ## Справка по командам
 
 ![Справка по команде cd](image/10.png){ #fig:010 width=70% height=70% }
 
-## Справка по командам
-
 ![Справка по команде pwd](image/11.png){ #fig:011 width=70% height=70% }
-
-## Справка по командам
 
 ![Справка по команде mkdir](image/12.png){ #fig:012 width=70% height=70% }
 
-## Справка по командам
-
 ![Справка по команде rmdir](image/13.png){ #fig:013 width=70% height=70% }
-
-## Справка по командам
 
 ![Справка по команде rm](image/14.png){ #fig:014 width=70% height=70% }
 
