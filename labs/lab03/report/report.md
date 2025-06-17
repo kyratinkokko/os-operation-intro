@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе 3"
 subtitle: "Язык разметки Markdown"
-author: "Останин Владислав Александрович"
+author: "Геллер Михаил Андреевич"
 
 ## Generic otions
 lang: ru-RU

@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе №2"
 subtitle: "Управление версиями"
-author: "Останин Владислав Александрович"
+author: "Геллер Михаил Андреевич"
 
 ## Generic otions
 lang: ru-RU
