@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе №7"
 subtitle: "Командная оболочка Midnight Commander"
-author: "Останин Владислав Александрович"
+author: "Геллер Михаил Андреевич"
 
 ## Generic otions
 lang: ru-RU
